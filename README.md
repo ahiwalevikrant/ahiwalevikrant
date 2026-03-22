@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0F6E56&height=200&section=header&text=Vikrant%20Ahiwale&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Angular%20%C2%B7%20React&descAlignY=58&descSize=18&descColor=d0eaff" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrant-ahiwale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-ahiwale-7917a7268/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vikrant-ahiwale-sde.lovable.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vikrantahiwale71)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantahiwale71@gmail.com)
