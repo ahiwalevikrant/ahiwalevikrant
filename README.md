@@ -14,8 +14,8 @@
 ## 👨‍💻 About Me
 
 ```txt
-🏢  Product Engineer @ Speridian Technologies, Bengaluru (Apr 2025 – Present)
-🔧  3+ years building full-stack enterprise applications in healthcare & finance
+🏢  Product Engineer @ Speridian Technologies, Bengaluru (Nov 2022 – Present)
+🔧  3.5+ years building full-stack enterprise applications in healthcare & finance
 🌱  Started backend-first with Java/Spring Boot → self-taught Angular & React on the job
 ⚛️  Currently owning the Commission Module (React) — new features, bug fixes, end-to-end
 🤖  Passionate about NLP, GenAI integrations, and intelligent backend systems
