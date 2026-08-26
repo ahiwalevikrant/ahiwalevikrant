@@ -29,16 +29,6 @@ Product Engineer @ Speridian Technologies | Full-Stack Developer | AI/ML Enthusi
 
 ---
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahiwalevikrant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/ahiwalevikrant)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahiwalevikrant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ahiwalevikrant)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahiwalevikrant&theme=tokyonight&hide_border=true)](https://github.com/ahiwalevikrant)
-
----
-
 ## Connect With Me
 
 📧 vikrantahiwale71@gmail.com  
