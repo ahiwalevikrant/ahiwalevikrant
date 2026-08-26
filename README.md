@@ -9,7 +9,7 @@ Product Engineer @ Speridian Technologies | Full-Stack Developer | AI/ML Enthusi
 - Product Engineer at Speridian Technologies, Bengaluru (Nov 2022 – Present)
 - 3.5+ years building full-stack enterprise applications in healthcare & finance
 - Backend-first with Java/Spring Boot → self-taught Angular & React
-- Currently leading the Commission Module (React)
+- Currently leading the Commission Module - Angular (Migrated from React)
 - Passionate about NLP, GenAI integrations, and intelligent systems
 - Bengaluru, Karnataka, India
 
