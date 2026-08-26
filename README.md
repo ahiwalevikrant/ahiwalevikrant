@@ -75,20 +75,10 @@ Tools: Git, GitHub, IntelliJ IDEA, Postman, Firebase, Redmine, Docker, Kafka
 
 ---
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahiwalevikrant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/ahiwalevikrant)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahiwalevikrant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ahiwalevikrant)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahiwalevikrant&theme=tokyonight&hide_border=true)](https://github.com/ahiwalevikrant)
-
----
-
 ## Connect With Me
 
 Email: vikrantahiwale71@gmail.com  
-Phone: +91 9325307637  
+Phone: +91 9325307637 / +91 9011420756
 Portfolio: [vikrant-ahiwale-sde.lovable.app](https://vikrant-ahiwale-sde.lovable.app)  
 LinkedIn: [linkedin.com/in/vikrant-ahiwale-7917a7268](https://www.linkedin.com/in/vikrant-ahiwale-7917a7268/)
 
