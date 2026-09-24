@@ -20,7 +20,7 @@ Product Engineer @ Speridian Technologies | Full-Stack Developer | AI/ML Enthusi
 ### 1. HabitProof — AI Habit Tracker & Biometric Proof Engine
 **Backend + Frontend | Java Spring Boot + Next.js**
 
-A production-grade habit accountability engine featuring JWT authentication, Google OAuth, streak calculations, and AI-powered face biometric verification. Real-time camera integration with facial landmark extraction using ZepIris (InsightFace/ArcFace).
+A production-grade habit accountability engine featuring JWT authentication, Google OAuth, streak calculations, and AI-powered face biometric verification. Real-time camera integration with facial recognition, proof capture, and gamified accountability flows.
 
 Tech: Java 21, Spring Boot 3.3, Next.js 16, TypeScript, MySQL, MinIO, Docker
 
@@ -42,7 +42,7 @@ GitHub: [ai-job-application-tracker](https://github.com/ahiwalevikrant/ai-job-ap
 ### 3. Healthcare Commission Notification System
 **Microservices | Java Spring Boot + Apache Kafka**
 
-Production-style event-driven microservices backend for US healthcare insurance commission tracking, payout notifications, and AI-powered dispute analysis. 4 independently deployable services with Kafka messaging, Stanford NLP, and Groq AI integration.
+Production-style event-driven microservices backend for US healthcare insurance commission tracking, payout notifications, and AI-powered dispute analysis. 4 independently deployable services with Kafka-based integration, secure agent flows, and scalable notification architecture.
 
 Tech: Java 21, Spring Boot 3.2.5, Apache Kafka, MySQL, Stanford CoreNLP, Groq LLM, Mailhog, Docker
 
@@ -50,10 +50,32 @@ GitHub: [healthcare-commission-notification-system](https://github.com/ahiwalevi
 
 ---
 
-### 4. CBSE Telegram Bot — NCERT Science Tutor
+### 4. Healthcare Commission UI
+**Frontend | React + TypeScript + Vite**
+
+A polished modern SaaS dashboard for managing healthcare commission workflows, agent activities, notification logs, dispute reviews, and operational insights. Built to complement the commission backend with a clean and responsive user experience for end users and support teams.
+
+Tech: React 18, TypeScript, Vite, React Router, TanStack Query, Axios, React Hook Form, CSS Variables
+
+GitHub: [healthcare-commission-UI](https://github.com/ahiwalevikrant/healthcare-commission-UI)
+
+---
+
+### 5. EduGenAI — AI Teaching Workspace
+**Full-Stack | Next.js + TypeScript + AI**
+
+EduGen AI is a curriculum-grounded teaching workspace for creating board-aligned classroom material. It helps educators select an official curriculum chapter and generate question papers, daily practice plans, answer keys, teaching presentations, and educational diagrams.
+
+Tech: Next.js, TypeScript, AI-powered content generation, curriculum-based workflows, Vercel deployment
+
+GitHub: [EduGenAI](https://github.com/ahiwalevikrant/EduGenAI) | Live: [edugenai-tau.vercel.app](https://edugenai-tau.vercel.app)
+
+---
+
+### 6. CBSE Telegram Bot — NCERT Science Tutor
 **Python | Telegram Bot + LLM**
 
-An NCERT Science Telegram bot that processes PDF textbooks, extracts content, and provides tutoring using local LLMs (Ollama). Implements RAG (Retrieval-Augmented Generation) with ChromaDB for knowledge retrieval.
+An NCERT Science Telegram bot that processes PDF textbooks, extracts content, and provides tutoring using local LLMs (Ollama). Implements RAG (Retrieval-Augmented Generation) with ChromaDB for knowledge retrieval and interactive learning support.
 
 Tech: Python, Telegram Bot API, Ollama, ChromaDB, PyMuPDF, Qwen LLM
 
