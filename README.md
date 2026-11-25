@@ -1,19 +1,17 @@
-# Vikrant Ahiwale
+Hi, I'm Vikrant Ahiwale 👋
+Software Engineer | Java | Spring Boot | Angular | React | Microservices
 
-Product Engineer @ Speridian Technologies | Full-Stack Developer | AI/ML Enthusiast
+Software Engineer at Speridian Technologies with 4+ years of experience building and supporting enterprise applications across healthcare and finance.
 
----
+My experience includes Java and Spring Boot backend development, REST APIs, microservices, and frontend development with React and Angular. In my current role, I primarily work on Angular development, API integration, debugging, UI enhancements, and bug fixes for an enterprise Revenue Management and Commission platform.
 
-## About Me
-
-- Product Engineer at Speridian Technologies, Bengaluru (Nov 2022 – Present)
-- 4+ years building full-stack enterprise applications in healthcare & finance
-- Backend-first with Java/Spring Boot → self-taught Angular & React
-- Currently working on the Commission Module - Angular (Migrated from React)
-- Passionate about NLP, GenAI integrations, and intelligent systems
-- Bengaluru, Karnataka, India
-
----
+I also build personal projects to explore backend engineering, AI/ML, NLP, and GenAI integrations. Some of these projects are developed with AI-assisted workflows as part of my continuous learning.
+About Me
+- Software Engineer at Speridian Technologies (Nov 2022 – Present)
+- Experience with Java, Spring Boot, REST APIs, and microservices
+- Current professional focus: Angular, API integration, debugging, and enterprise UI development
+- Previous frontend experience with React
+- Interested in backend engineering, distributed systems, AI, and practical application development
 
 ## Featured Projects
 
