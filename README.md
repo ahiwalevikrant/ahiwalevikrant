@@ -81,8 +81,7 @@ GitHub: [CBSE-Telegram-bot](https://github.com/ahiwalevikrant/CBSE-Telegram-bot)
 
 ---
 
-## Tech Stack
-
+Tech Stack
 Backend: Java, Spring Boot, Spring MVC, Microservices, REST APIs, JWT
 
 AI/ML/NLP: Python, Stanford NLP, Ollama LLM, GenAI Integration, Speech Recognition
@@ -92,8 +91,12 @@ Frontend: Angular, React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind
 Database: MySQL, PostgreSQL, Oracle, MariaDB, Hibernate, JPA, ChromaDB
 
 Tools: Git, GitHub, IntelliJ IDEA, Postman, Firebase, Redmine, Docker, Kafka
-
----
+Current Learning Focus
+- Strengthening Core Java and Spring Boot fundamentals
+- SQL, database design, and query optimisation
+- Angular internals and RxJS
+- Microservices and distributed systems
+- Testing, system design, and writing maintainable code
 
 ## Connect With Me
 
@@ -104,4 +107,7 @@ LinkedIn: [linkedin.com/in/vikrant-ahiwale-7917a7268](https://www.linkedin.com/i
 
 ---
 
-*Open to Full Stack, Application Support, and Backend Engineering roles*
+I'm interested in opportunities in Java Backend Development, Full-Stack Engineering, Enterprise Applications, and Financial Technology.
+
+*Always learning, building, debugging, and improving as an engineer.*
+
